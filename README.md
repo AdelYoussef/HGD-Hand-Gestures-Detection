@@ -34,4 +34,4 @@ This command exports the trained model to the desired directory.
 
 
 ### Test
-Model testing could be done by running a detection script wether for a single image or for a video feed. Also could be found in "needed scripts" folder
+Model testing could be done by running a detection script wether for a single image or for a video feed. Also could be found in "needed scripts" folder. Just copy the detection scripts in the research dirctory found in the downloaded TensorFlow object detection API folder.
