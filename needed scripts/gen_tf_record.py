@@ -35,38 +35,28 @@ FLAGS = flags.FLAGS
 # TO-DO replace this with label map
 def class_text_to_int(row_label):
 
-    if row_label == 'one':
+    if row_label == 'close_palm':
         return 1
-    if row_label == 'two':
+    if row_label == 'fist':
         return 2
-    if row_label == 'three':
-        return 3
     if row_label == 'four':
+        return 3
+    if row_label == 'ok':
         return 4
-    if row_label == 'five':
+    if row_label == 'one':
         return 5
-    if row_label == 'six':
+    if row_label == 'open_palm':
         return 6
-    if row_label == 'seven':
+    if row_label == 'pinky':
         return 7
-    if row_label == 'eight':
+    if row_label == 'perfect':
         return 8
-    if row_label == 'nine':
+    if row_label == 'rock':
         return 9
-    if row_label == 'zero':
+    if row_label == 'three':
         return 10
-    if row_label == 'plus':
+    if row_label == 'two':
         return 11
-    if row_label == 'minus':
-        return 12
-    if row_label == 'times':
-        return 13
-    if row_label == 'div':
-        return 14
-    if row_label == 'equal':
-        return 15
-    if row_label == 'decimal':
-        return 16
     else:
         return 0
 
