@@ -1,4 +1,4 @@
-# TensorFlow-obj_det-API
+# HGD (Hand Gestures Detection)
 
 ![image](https://user-images.githubusercontent.com/63298005/179505293-8c0d2cf1-2fc6-48f8-87dd-09acb4f5f15d.png)
 
